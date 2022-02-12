@@ -1,5 +1,6 @@
 package main
 
+//https://golang.gr/2022/02/11/channels/
 import "fmt"
 
 func main() {
@@ -17,3 +18,5 @@ func main() {
 	fmt.Printf("The number received from channel is: %d\n", number)
 
 }
+
+//next:range-channels
